@@ -1,0 +1,5 @@
+{
+    "lobby_wait_time": 5,
+    "min_players": 2,
+    "max_players": 3
+}
