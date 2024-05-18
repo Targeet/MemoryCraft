@@ -17,7 +17,7 @@ To make this game in python, i used a library called pygame, it helps with drawi
 
 CREDITS
 
-Every image and sound in this project is not mine, i got everything online and here are some of the sources.
+Every image and sound in this project are not mine, i got everything online and here are some of the sources.
 
 Main menu title: https://textcraft.net
 Cards images: https://minecraftfaces.com
