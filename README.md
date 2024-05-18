@@ -6,10 +6,10 @@ The game works with a Client-Server architecture, you NEED to run the server to 
 MEMORYCRAFT RULES
 
 The rules of the game are very simple.
-When the game starts, all the players get the same board of cards.
-On each turn, the player has 2 moves, he has to click 2 cards and try to match them.
-If he successfully manages to match the cards, he gets to play another turn.
-The game goes on until all the cards are matched and finally the game ends, revealing a leaderboard.
+- When the game starts, all the players get the same board of cards.
+- On each turn, the player has 2 moves, he has to click 2 cards and try to match them.
+- If he successfully manages to match the cards, he gets to play another turn.
+- The game goes on until all the cards are matched and finally the game ends, revealing a leaderboard.
 
 PYGAME
 
@@ -19,5 +19,5 @@ CREDITS
 
 Every image and sound in this project are not mine, i got everything online and here are some of the sources.
 
-Main menu title: https://textcraft.net
-Cards images: https://minecraftfaces.com
+- Main menu title: https://textcraft.net
+- Cards images: https://minecraftfaces.com
